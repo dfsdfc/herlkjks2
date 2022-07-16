@@ -1,0 +1,13 @@
+{
+    "name": "wV2",
+    "description": "Deploy V2ray VLess on Heroku.",
+    "keywords": ["VLESS"],
+    "env": {
+        "ID": {
+            "description": "VLESS ID",
+            "value": "cb1733e3-f898-46ff-8ea0-2a18d5208fb9"
+        }
+    },
+    "repository": "https://github.com/dfsdfc/herlkjks2",
+    "stack": "container"
+}
